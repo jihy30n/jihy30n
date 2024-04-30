@@ -1,7 +1,7 @@
 <div align="center">
 
 <!--헤더-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:9619fc&height=300&section=header&text=Welcome%20to%20Jihyeon's%20Github&fontSize=50&animation=blinking&descSize=30&descAlign=80&descAlignY=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:9619fc&height=300&section=header&text=Jihyeon's%20Github&fontSize=70&animation=blinking&descSize=30&descAlign=80&descAlignY=70&fontColor=ffffff)
 <!--깃status, 언어비율-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jihy30n&show_icons=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihy30n&hide_progress=true&theme=buefy)
 
