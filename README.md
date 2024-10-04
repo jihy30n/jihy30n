@@ -23,7 +23,7 @@
 ###  GIT
 <!--깃status, 언어비율-->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jihy30n&show_icons=true&theme=buefy) 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihy30n)
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihy30n) -->
 
 
  </div>
