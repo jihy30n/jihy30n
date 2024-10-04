@@ -1,7 +1,7 @@
 <div align="center">
 
 <!--헤더-->
-![header](https://capsule-render.vercel.app/api?type=rect&color=3fb03f&height=150&section=header&text=Jihyeon's%20Github&fontColor=fff&fontSize=50&desc=Innovative%20Developer&descAlign=50&descAlignY=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=3fb03f&height=150&section=header&text=Jihyeon's%20Github&fontColor=fff&fontSize=50&desc=Innovative%20Developer&descAlign=50&descAlignY=70&animation=fadeIn)
 
 </br>
 
@@ -33,3 +33,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihy30n&theme=vue&hide_border=true" alt="GitHub Streak"/>
 </br>
 </div>
+
+<!-- ### Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=potato-club&repo=Sportry-back)](https://github.com/jihy30n/my-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=potato-club&repo=Sportry-back)](https://github.com/jihy30n/my-project)
+
+-->
