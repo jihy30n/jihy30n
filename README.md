@@ -26,8 +26,7 @@
 </br>
 
 <!--깃 status, 언어 비율-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jihy30n&show_icons=true&theme=vue&hide=contribs,prs&hide_border=true) 
-</br>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jihy30n&show_icons=true&theme=vue)</br>
 
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihy30n&theme=vue&hide_border=true" alt="GitHub Streak"/>
